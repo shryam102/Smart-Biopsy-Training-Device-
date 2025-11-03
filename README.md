@@ -85,10 +85,9 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ---
 
-### 🧑‍🔬 Contributors
-Shresth Verma  
-Graduate Researcher, Boston University — Morphable Bio Robotics Lab
-
+## 👥 Contributors
+Noelle Flanagan, Isara Cholaseuk, Tanish Katial, **Shresth Verma**, Sauman Raaj Aarthi Ganesh Vetrivel  
+Boston University — ME571 (Spring 2025)
 ---
 
 ### 📜 License
