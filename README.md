@@ -24,7 +24,7 @@ The circuit integrates an Arduino UNO with IMU (MPU6050), FSR sensor, stepper mo
 This configuration enables simultaneous motion sensing, force monitoring, and corrective feedback.
 
 <p align="center">
-  <img src="./hardware/Circuit_diagram.png" width="600">
+  <img src="./hardware/circuit_diagram.png" width="600">
 </p>
 
 **Key connections**
