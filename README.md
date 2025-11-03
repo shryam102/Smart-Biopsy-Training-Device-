@@ -85,6 +85,11 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ---
 
+### 📹 Demonstration
+You can watch a short demo of the working prototype here:  
+🎥 [Video Demonstration](./media/device_demo.mp4)
+
+
 ---
 
 ### 📜 License
