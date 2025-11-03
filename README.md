@@ -39,7 +39,7 @@ This configuration enables simultaneous motion sensing, force monitoring, and co
 ### 🛠️ Hardware Design
 
 <p align="center">
-  <img src="./hardware/Assembly_images/biopsy_trainer.png" width="500">
+  <img src="./hardware/Assembly_images/Assembly_2.png" width="500">
 </p>
 
 The biopsy trainer features:
