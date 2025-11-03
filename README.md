@@ -47,7 +47,7 @@ The biopsy trainer features:
 - Integrated sensor mounts for hand and needle tracking  
 - Stepper-driven correction mechanism  
 
-CAD files are available as STEP archive in `/hardware/CAD_models`.
+CAD files are available as STEP archive in `/hardware/CAD_model`.
 
 ---
 
