@@ -85,9 +85,12 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ---
 
-### 📹 Demonstration
-You can watch a short demo of the working prototype here:  
-🎥 [Video Demonstration](./media)
+## 📹 Demonstration
+
+<video width="600" controls>
+  <source src="./media/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ---
