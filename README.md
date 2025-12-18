@@ -87,10 +87,8 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ## 📹 Demonstration
 
-<video width="600" controls>
-  <source src="./media/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎥 [Click here to watch the demo video](./media/demo_video.mp4)
+
 
 
 ---
