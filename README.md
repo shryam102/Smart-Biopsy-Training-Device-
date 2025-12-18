@@ -87,7 +87,7 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ## 📹 Demonstration
 
-🎥 [Click here to watch the demo video](https://raw.githubusercontent.com/<shryam102>/<Smart-Biopsy-Training-Device->/main/media/demo_video.mp4)
+🎥 [Click here to watch the demo video](https://raw.githubusercontent.com/shryam102/Smart-Biopsy-Training-Device-/main/media/demo_video.mp4)
 
 
 
