@@ -87,7 +87,7 @@ Quantitative metrics showed improvement across angular deviation, insertion forc
 
 ## 📹 Demonstration
 
-🎥 [Click here to watch the demo video](./media/demo_video.mp4)
+🎥 [Click here to watch the demo video](https://raw.githubusercontent.com/<username>/<repo>/main/media/demo_video.mp4)
 
 
 
